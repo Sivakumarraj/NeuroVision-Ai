@@ -61,14 +61,5 @@ Key Enhancements:
 
 ---
 
-## 🧪 Project Workflow  
 
-```mermaid
-flowchart TD
-    A[Data Collection] --> B[Data Cleaning & Preprocessing]
-    B --> C[Feature Extraction (TF-IDF / Tokenizer)]
-    C --> D[Base Model Training]
-    D --> E[Evaluation & Optimization]
-    E --> F[Transformer Fine-Tuning]
-    F --> G[Generative + Multimodal Integration]
-    G --> H[Streamlit / API Deployment]
+
